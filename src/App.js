@@ -50,7 +50,7 @@ function App() {
             />
           ))}
         </div>
-        <p>created by sarthak</p>
+        
       </div>
     </div>
   );
